@@ -1,4 +1,4 @@
-package com.Tang.bean;
+package com.Tang.SpringMVC.Dao.bean;
 
 public class helloWorld {
 
